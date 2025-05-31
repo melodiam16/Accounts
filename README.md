@@ -7,7 +7,7 @@ pip install pipenv
 ```
 2) Install project dependencies. 
 ```shell
-pipenv install -r src/requirement.txt
+pipenv install -r src/requirements.txt
 ```
 3) Activate virtual environment
 ```shell
